@@ -10,6 +10,9 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>springQurtz</module>
+        <module>springJpa</module>
+        <module>springJpa</module>
+        <module>springMybatis</module>
     </modules>
 
 
